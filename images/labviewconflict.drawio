@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T06:16:38.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" version="14.4.3" etag="9nzIgm-oIN9xPFOzaIxa" type="github"><diagram id="GC9ZkEapZbveGQl96vee">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-09T06:34:27.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="fYQTU9dI2s0zQkehmivn" version="14.4.3" type="github">
+  <diagram id="GC9ZkEapZbveGQl96vee" name="ページ1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-5" value="Folder1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-6" value="Folder2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-8" value="VI_1_1 (サブVI_1使用)&lt;br&gt;VI_2_1 (サブVI_3使用)&lt;br&gt;VI_2_2 (サブVI_2使用)&lt;br&gt;・&lt;br&gt;・&lt;br&gt;・" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-9" value="サブVI_1&lt;br&gt;サブVI_2&lt;br&gt;サブVI_3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-12" value="VI_1_1 (サブVI_1使用)&lt;br&gt;VI_2_1 (サブVI_3使用)&lt;br&gt;VI_2_2 (サブVI_2使用)&lt;br&gt;・&lt;br&gt;・&lt;br&gt;・" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-13" value="サブVI_1&lt;br&gt;サブVI_2&lt;br&gt;サブVI_3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364" y="200" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-14" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.778;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iDqpZF4vDCB6a2efZ1tt-9" target="iDqpZF4vDCB6a2efZ1tt-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDqpZF4vDCB6a2efZ1tt-15" value="VI_1_1の中のサブVI_1の参照元がFolder1だったら、LLBビルドが失敗する" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343" y="270" width="230" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
