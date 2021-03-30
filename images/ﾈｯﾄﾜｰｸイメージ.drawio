@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T06:10:27.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="WRM7Yg_k5u4mqzHdYCVy" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T06:26:42.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Gs1kcHH_sbTicEQtwIHU" version="14.4.8" type="github">
   <diagram id="zSGuNCVuyLexyMfJzmde" name="ページ1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Tm7CqngPH54pWnZSqlNK-62" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="124.25" y="425" width="460" height="320" as="geometry" />
+          <mxGeometry x="40" y="500" width="350" height="255" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-1" value="外観検査&lt;br&gt;量産機PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
@@ -71,70 +71,73 @@
           <mxGeometry x="630" y="340" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-21" value="外観検査&lt;br&gt;ｴｯｼﾞﾃﾞﾊﾞｲｽ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172.75" y="595" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="605" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-22" value="データベース&lt;br&gt;サーバー" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413.75" y="590" width="120" height="70" as="geometry" />
+          <mxGeometry x="243.75" y="600" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-23" value="学習PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413.75" y="680" width="120" height="45" as="geometry" />
+          <mxGeometry x="243.75" y="690" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Tm7CqngPH54pWnZSqlNK-24" value="個人PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="302.75" y="472" width="120" height="35" as="geometry" />
+        <mxCell id="Tm7CqngPH54pWnZSqlNK-24" value="GitLab&lt;br&gt;サーバー" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="539" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-25" value="ハードディスク" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="569.9957142857143" y="199.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-37" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tm7CqngPH54pWnZSqlNK-21" target="Tm7CqngPH54pWnZSqlNK-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="292.75" y="625" as="sourcePoint" />
-            <mxPoint x="342.75" y="575" as="targetPoint" />
+            <mxPoint x="122.75" y="635" as="sourcePoint" />
+            <mxPoint x="172.75" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-47" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tm7CqngPH54pWnZSqlNK-23" target="Tm7CqngPH54pWnZSqlNK-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="303.75" y="825" as="sourcePoint" />
-            <mxPoint x="353.75" y="775" as="targetPoint" />
+            <mxPoint x="133.75" y="835" as="sourcePoint" />
+            <mxPoint x="183.75" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-55" value="・データ&lt;br&gt;　　画像データ&lt;br&gt;　　型番情報&lt;br&gt;　　判定モデル&lt;br&gt;　　・・・&lt;br&gt;&lt;br&gt;・ソフト&lt;br&gt;　タグ付けツール&lt;br&gt;　自動再学習アプリ" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
-          <mxGeometry x="604.25" y="505" width="151.5" height="150" as="geometry" />
+          <mxGeometry x="410" y="620" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-57" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tm7CqngPH54pWnZSqlNK-24" target="Tm7CqngPH54pWnZSqlNK-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="554.25" y="580" as="sourcePoint" />
-            <mxPoint x="604.25" y="530" as="targetPoint" />
+            <mxPoint x="384.25" y="590" as="sourcePoint" />
+            <mxPoint x="434.25" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="233.25" y="490" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Tm7CqngPH54pWnZSqlNK-58" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tm7CqngPH54pWnZSqlNK-24" target="Tm7CqngPH54pWnZSqlNK-22">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="312.75" y="500" as="sourcePoint" />
-            <mxPoint x="242.75" y="605" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="474.25" y="490" />
+              <mxPoint x="120" y="558" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-60" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Tm7CqngPH54pWnZSqlNK-55" target="Tm7CqngPH54pWnZSqlNK-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="554.25" y="570" as="sourcePoint" />
-            <mxPoint x="604.25" y="520" as="targetPoint" />
+            <mxPoint x="384.25" y="580" as="sourcePoint" />
+            <mxPoint x="434.25" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-63" value="社内ネットワーク" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="144.25" y="435" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Tm7CqngPH54pWnZSqlNK-64" value="量産状態監視" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="187.75" y="545" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Tm7CqngPH54pWnZSqlNK-65" value="リモートアクセス" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="424.25" y="545" width="110" height="20" as="geometry" />
+          <mxGeometry x="60" y="510" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Tm7CqngPH54pWnZSqlNK-23" target="Tm7CqngPH54pWnZSqlNK-23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7CqngPH54pWnZSqlNK-69" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Tm7CqngPH54pWnZSqlNK-22" target="Tm7CqngPH54pWnZSqlNK-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="599" as="sourcePoint" />
+            <mxPoint x="320" y="579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm7CqngPH54pWnZSqlNK-71" value="・ソフト&lt;br&gt;　　量産ソフト" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm7CqngPH54pWnZSqlNK-72" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="Tm7CqngPH54pWnZSqlNK-71" target="Tm7CqngPH54pWnZSqlNK-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="705" as="sourcePoint" />
+            <mxPoint x="373.75" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm7CqngPH54pWnZSqlNK-74" value="メリット&lt;br&gt;&lt;br&gt;・すべての情報の一元管理&lt;br&gt;・ソフトや判定ロジックの更新履歴の見える化&lt;br&gt;・自動再学習はネットワーク内で完結できる&lt;br&gt;・量産展開時に" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="280" height="276" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
