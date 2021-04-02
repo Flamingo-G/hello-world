@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T02:48:40.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="UHI-dGAHdtDQJnOveR5Y" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T09:11:55.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="1kOrnRw3QwUe1Nm3tZWq" version="14.5.6" type="github">
   <diagram id="zSGuNCVuyLexyMfJzmde" name="ページ1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,22 +146,22 @@
         <mxCell id="I03jtUjxZPY6olnYF68Y-19" value="・ソフト管理" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="587" y="584.5" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="brxPHPzRj3RmDMarpUSy-2" value="Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="brxPHPzRj3RmDMarpUSy-2" value="Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="29" y="698" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="brxPHPzRj3RmDMarpUSy-4" value="ｲﾝﾗｲﾝ検査画面" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="brxPHPzRj3RmDMarpUSy-4" value="ｲﾝﾗｲﾝ検査画面" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="157" y="705" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="brxPHPzRj3RmDMarpUSy-5" value="ﾃﾞｰﾀﾍﾞｰｽ画面" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="brxPHPzRj3RmDMarpUSy-5" value="ﾃﾞｰﾀﾍﾞｰｽ画面" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="305.5" y="705" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="brxPHPzRj3RmDMarpUSy-6" value="解析(ﾋｽﾄｸﾞﾗﾑ)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="brxPHPzRj3RmDMarpUSy-6" value="解析(ﾋｽﾄｸﾞﾗﾑ)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="305.5" y="728" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="brxPHPzRj3RmDMarpUSy-7" value="ｱﾉﾃｰｼｮﾝﾂｰﾙ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="brxPHPzRj3RmDMarpUSy-7" value="ｱﾉﾃｰｼｮﾝﾂｰﾙ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="305.5" y="752" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="brxPHPzRj3RmDMarpUSy-8" value="再学習アプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="brxPHPzRj3RmDMarpUSy-8" value="再学習アプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="305.5" y="778" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
