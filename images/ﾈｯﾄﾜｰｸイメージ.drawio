@@ -1,37 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T02:13:20.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-pN9quRPngB2FWJVAYKv" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T02:48:40.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="UHI-dGAHdtDQJnOveR5Y" version="14.5.4" type="github">
   <diagram id="zSGuNCVuyLexyMfJzmde" name="ページ1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Tm7CqngPH54pWnZSqlNK-1" value="外観検査&lt;br&gt;量産機PC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="99" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-3" value="タグ付け_PC1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359" y="110" width="120" height="40" as="geometry" />
+          <mxGeometry x="338" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-6" value="タグ付け_PC2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="338" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-7" value="タグ付け_PC3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="359" y="230" width="120" height="40" as="geometry" />
+          <mxGeometry x="338" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-8" value="学習PC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="609" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-9" value="田戸岬工場" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="340" width="80" height="20" as="geometry" />
+          <mxGeometry x="119" y="290" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-10" value="国分工場_生技開発" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="340" width="120" height="20" as="geometry" />
+          <mxGeometry x="359" y="290" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Tm7CqngPH54pWnZSqlNK-1" target="Tm7CqngPH54pWnZSqlNK-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="250" as="sourcePoint" />
-            <mxPoint x="470" y="250" as="targetPoint" />
+            <mxPoint x="349" y="200" as="sourcePoint" />
+            <mxPoint x="449" y="200" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="320" />
-              <mxPoint x="419" y="320" />
+              <mxPoint x="159" y="270" />
+              <mxPoint x="398" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -41,21 +41,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="490" y="110" width="50" height="160" as="geometry" />
+          <mxGeometry x="469" y="60" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-16" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Tm7CqngPH54pWnZSqlNK-15" target="Tm7CqngPH54pWnZSqlNK-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="120" as="sourcePoint" />
-            <mxPoint x="440" y="70" as="targetPoint" />
+            <mxPoint x="369" y="70" as="sourcePoint" />
+            <mxPoint x="419" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-17" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Tm7CqngPH54pWnZSqlNK-8" target="Tm7CqngPH54pWnZSqlNK-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="120" as="sourcePoint" />
-            <mxPoint x="440" y="70" as="targetPoint" />
+            <mxPoint x="369" y="70" as="sourcePoint" />
+            <mxPoint x="419" y="20" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="60" />
-              <mxPoint x="180" y="60" />
+              <mxPoint x="669" y="10" />
+              <mxPoint x="159" y="10" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,89 +65,104 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-20" value="国分工場_生技開発" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="340" width="120" height="20" as="geometry" />
+          <mxGeometry x="609" y="290" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-21" value="外観検査&lt;br style=&quot;font-size: 15px;&quot;&gt;ｴｯｼﾞﾃﾞﾊﾞｲｽ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="167" y="646" width="120" height="60" as="geometry" />
+          <mxGeometry x="157" y="526" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-22" value="データベース&lt;br style=&quot;font-size: 15px;&quot;&gt;サーバー" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="307" y="645" width="120" height="60" as="geometry" />
+          <mxGeometry x="297" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-23" value="学習PC" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="451" y="645" width="120" height="60" as="geometry" />
+          <mxGeometry x="441" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-24" value="GitLab&lt;br style=&quot;font-size: 15px;&quot;&gt;サーバー" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="597" y="644.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="587" y="524.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-25" value="ハードディスク" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="569.9957142857143" y="199.9999999999999" as="geometry" />
+          <mxGeometry x="548.9957142857143" y="149.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="Tm7CqngPH54pWnZSqlNK-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="Tm7CqngPH54pWnZSqlNK-23" target="Tm7CqngPH54pWnZSqlNK-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/video_camera-128.png;fontSize=16;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="100" y="642" width="38" height="38" as="geometry" />
+          <mxGeometry x="90" y="522" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-2" value="" style="endArrow=none;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="Tm7CqngPH54pWnZSqlNK-21" target="I03jtUjxZPY6olnYF68Y-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="265" y="710" as="sourcePoint" />
-            <mxPoint x="315" y="660" as="targetPoint" />
+            <mxPoint x="255" y="590" as="sourcePoint" />
+            <mxPoint x="305" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-3" value="PLC" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="100" y="678" width="45" height="26.5" as="geometry" />
+          <mxGeometry x="90" y="558" width="45" height="26.5" as="geometry" />
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-4" value="" style="endArrow=none;html=1;fontSize=16;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="I03jtUjxZPY6olnYF68Y-3" target="Tm7CqngPH54pWnZSqlNK-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="125" y="830" as="sourcePoint" />
-            <mxPoint x="175" y="780" as="targetPoint" />
+            <mxPoint x="115" y="710" as="sourcePoint" />
+            <mxPoint x="165" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-5" value="社内ネットワーク" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;fontSize=17;" parent="1" edge="1">
           <mxGeometry x="0.0107" y="20" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="157" y="560" as="sourcePoint" />
-            <mxPoint x="717" y="560" as="targetPoint" />
+            <mxPoint x="147" y="440" as="sourcePoint" />
+            <mxPoint x="707" y="440" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-7" value="" style="endArrow=none;html=1;fontSize=17;" parent="1" target="Tm7CqngPH54pWnZSqlNK-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="227" y="560" as="sourcePoint" />
-            <mxPoint x="277" y="490" as="targetPoint" />
+            <mxPoint x="217" y="440" as="sourcePoint" />
+            <mxPoint x="267" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-8" value="" style="endArrow=none;html=1;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Tm7CqngPH54pWnZSqlNK-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="237" y="570" as="sourcePoint" />
-            <mxPoint x="367" y="560" as="targetPoint" />
+            <mxPoint x="227" y="450" as="sourcePoint" />
+            <mxPoint x="357" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-9" value="" style="endArrow=none;html=1;fontSize=17;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Tm7CqngPH54pWnZSqlNK-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510.5" y="615" as="sourcePoint" />
-            <mxPoint x="511" y="560" as="targetPoint" />
+            <mxPoint x="500.5" y="495" as="sourcePoint" />
+            <mxPoint x="501" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-10" value="" style="endArrow=none;html=1;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="Tm7CqngPH54pWnZSqlNK-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="657" y="560" as="sourcePoint" />
-            <mxPoint x="521" y="570" as="targetPoint" />
+            <mxPoint x="647" y="440" as="sourcePoint" />
+            <mxPoint x="511" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-15" value="・ｶﾒﾗ制御&lt;br&gt;&lt;div&gt;&lt;span&gt;・PLC通信&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;・AI判定&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="167" y="707.5" width="90" height="60" as="geometry" />
+          <mxGeometry x="157" y="587.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-17" value="・データベース&lt;br&gt;・解析ツール&lt;br&gt;・ｱﾉﾃｰｼｮﾝﾂｰﾙ&lt;br&gt;・再学習アプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="307" y="704.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="297" y="584.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-18" value="・学習&lt;br&gt;・画像処理" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="451" y="706" width="90" height="40" as="geometry" />
+          <mxGeometry x="441" y="586" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I03jtUjxZPY6olnYF68Y-19" value="・ソフト管理" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="597" y="704.5" width="110" height="20" as="geometry" />
+          <mxGeometry x="587" y="584.5" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="brxPHPzRj3RmDMarpUSy-1" value="・データベース&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;(画像データ&lt;br&gt;　&amp;nbsp; 型番情報&lt;br&gt;　&amp;nbsp; 判定モデル)&lt;br&gt;・解析ツール&lt;br&gt;　&amp;nbsp; ﾋｽﾄｸﾞﾗﾑ&lt;br&gt;・ｱﾉﾃｰｼｮﾝﾂｰﾙ&lt;br&gt;・再学習アプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="550" y="860" width="120" height="150" as="geometry" />
+        <mxCell id="brxPHPzRj3RmDMarpUSy-2" value="Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="29" y="698" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="brxPHPzRj3RmDMarpUSy-4" value="ｲﾝﾗｲﾝ検査画面" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="157" y="705" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="brxPHPzRj3RmDMarpUSy-5" value="ﾃﾞｰﾀﾍﾞｰｽ画面" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="705" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="brxPHPzRj3RmDMarpUSy-6" value="解析(ﾋｽﾄｸﾞﾗﾑ)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="728" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="brxPHPzRj3RmDMarpUSy-7" value="ｱﾉﾃｰｼｮﾝﾂｰﾙ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="752" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="brxPHPzRj3RmDMarpUSy-8" value="再学習アプリ" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="305.5" y="778" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
