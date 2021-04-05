@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T09:44:59.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="cf4ChG2zQr7v4aF54pZy" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T09:45:54.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="YIaWjFRICd0eiWZc82Pj" version="14.5.7" type="github">
   <diagram id="zSGuNCVuyLexyMfJzmde" name="ページ1">
     <mxGraphModel dx="1221" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,8 +204,8 @@
         <mxCell id="BL4ZP-dCPKBmuDknKkvE-35" value="GitLab画面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="BL4ZP-dCPKBmuDknKkvE-53">
           <mxGeometry x="-3.9346271806879263" y="-1.8823529411764706" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BL4ZP-dCPKBmuDknKkvE-54" value="プログラム(コンテナ)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="435.65" y="600" width="170" height="20" as="geometry" />
+        <mxCell id="BL4ZP-dCPKBmuDknKkvE-54" value="プログラム(コンテナ)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="439" y="599" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
