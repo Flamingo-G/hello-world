@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T04:52:08.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="0EqQkMLDEY1ZWh2gSFoV" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T05:10:49.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="ZVHnEcyqJTnYSQrFSivC" version="14.5.7" type="github">
   <diagram id="zSGuNCVuyLexyMfJzmde" name="ページ1">
     <mxGraphModel dx="1483" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="364.5" y="186.36" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vcGvJPlbGCjdbbLQWBWa-10" value="STEP 2　学習の条件を設定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="150" y="280" width="200" height="20" as="geometry" />
+          <mxGeometry x="150" y="275" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K1crJThqeiE6FOfrqWuu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="BL4ZP-dCPKBmuDknKkvE-29" target="K1crJThqeiE6FOfrqWuu-6">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry y="19.66418504572343" width="214.64999999999998" height="9.832769461077845" as="geometry" />
         </mxCell>
         <mxCell id="vcGvJPlbGCjdbbLQWBWa-11" value="STEP 3　学習の条件により、DBから画像等をpullして、学習する" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="150" y="480" width="460" height="20" as="geometry" />
+          <mxGeometry x="150" y="483" width="460" height="20" as="geometry" />
         </mxCell>
         <mxCell id="K1crJThqeiE6FOfrqWuu-3" value="画像データ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="550" y="380" width="90" height="20" as="geometry" />
@@ -93,6 +93,15 @@
         </mxCell>
         <mxCell id="K1crJThqeiE6FOfrqWuu-8" value="ソフト更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="324" y="920" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K1crJThqeiE6FOfrqWuu-9" value="学習済みモデル" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="620" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K1crJThqeiE6FOfrqWuu-11" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="630" as="sourcePoint" />
+            <mxPoint x="470" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
