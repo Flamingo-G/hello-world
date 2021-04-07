@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T08:05:24.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="fWNB_ythU5XT2BnkxSt5" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T04:25:11.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="80ztiYlEamAZ6aSD6pQo" version="14.5.7" type="github">
   <diagram id="zSGuNCVuyLexyMfJzmde" name="ページ1">
-    <mxGraphModel dx="1221" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="K1crJThqeiE6FOfrqWuu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" parent="1" source="BL4ZP-dCPKBmuDknKkvE-29" target="K1crJThqeiE6FOfrqWuu-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GkomwFxneM5tJGqXn40Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.568;exitY=1.163;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="K1crJThqeiE6FOfrqWuu-9" target="BL4ZP-dCPKBmuDknKkvE-29">
+        <mxCell id="GkomwFxneM5tJGqXn40Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.568;exitY=1.163;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="K1crJThqeiE6FOfrqWuu-9" target="BL4ZP-dCPKBmuDknKkvE-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="850" as="targetPoint" />
             <Array as="points">
@@ -111,11 +111,17 @@
             <mxPoint x="470" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GkomwFxneM5tJGqXn40Y-4" value="評価&lt;br style=&quot;font-size: 20px&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=38;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="GkomwFxneM5tJGqXn40Y-4" value="評価&lt;br style=&quot;font-size: 20px&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=38;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="679.995372819312" y="584.9976470588235" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GkomwFxneM5tJGqXn40Y-5" value="本当にこのモデルを&lt;br&gt;デプロイしますか？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="GkomwFxneM5tJGqXn40Y-5" value="本当にこのモデルを&lt;br&gt;デプロイしますか？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="639.995372819312" y="637.9476470588236" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F1IOPT8IGDtRidRaBFa1-1" value="" style="endArrow=classic;html=1;exitX=0.449;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GkomwFxneM5tJGqXn40Y-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="540" as="sourcePoint" />
+            <mxPoint x="720" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
