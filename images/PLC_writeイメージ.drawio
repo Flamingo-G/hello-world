@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T02:15:21.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XwCCkBi4HsmrHtBEmoo_" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T02:16:16.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WPVkE-YoHhevh2fU5hq8" version="14.7.3" type="github">
   <diagram id="TVi3OnERb6zxaFSywoh0" name="ページ1">
-    <mxGraphModel dx="269" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,8 +126,8 @@
         <mxCell id="_5_XGm11aLBnIrOVUH_l-54" value="判定結果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="370" y="410" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_5_XGm11aLBnIrOVUH_l-55" value="段替え-モデル切替イメージ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="40" y="50" width="250" height="30" as="geometry" />
+        <mxCell id="_5_XGm11aLBnIrOVUH_l-55" value="段替えモデル切替イメージ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=19;" parent="1" vertex="1">
+          <mxGeometry x="45" y="50" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_5_XGm11aLBnIrOVUH_l-56" value="型番管理ツール" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="620" y="150" width="170" height="30" as="geometry" />
